@@ -1,0 +1,1150 @@
+/*
+-------- Grid Settings
+*/
+@media (min-width: 1921px){
+.container{width:80%;}
+
+}
+@media (max-width: 1920px){
+     .container{width: 1600px;}
+     div.single-post-comment{
+          padding:  15px 60px;
+     }
+}
+@media (min-width: 1600px){
+
+}
+@media (max-width: 1600px){
+     .line-height-30{
+          line-height: 30px !important;
+     }
+     .container{width: 1300px;}
+     div.single-post-comment{
+          padding:  15px 60px;
+     }
+     div.category-landing-top{min-height: 460px;}
+     div.network-landing-top{min-height: 460px;}
+
+     div.category-landing-top h1.cat-title{font-size:120px;}
+     div.network-landing-top h1.cat-title{font-size:80px;}
+
+
+     div.payments_dis_tbl table td, div.payments_dis_tbl table th{
+          font-size: 22px;
+     }
+     .f-s-18{font-size: 18px !important;}
+     div.profile-view-container div.profile-image .uname{font-size: 20px;}
+
+     div.business-unit-slider .bu-logo img.img-bdo-logo {width: 200px;}
+     div.bu-welcome-msg h1{font-size: 45px;}
+     div.bu-welcome-msg p, div.cards-lists-with-thumb div.card-sm-desc, div.cards-lists-with-thumb div.card-desc-short p, div.cards-lists-with-thumb div.inText{font-size: 18px;}
+     div.cards-lists-with-thumb div.card-title{font-size: 35px;}
+
+     div.bu-frm-content div.list-content div.txt-t{font-size: 45px;}
+     div.bu-frm-content div.list-content p{font-size: 18px;}
+     div.opt-abs-txt span.circle{width: 35px;height: 35px;}
+     div.opt-abs-txt span.circle:after {
+         height: 15px;
+         width: 22px;
+         display: block;
+         text-align: center;
+         left: 8px;
+         top: 11px;
+         background-size: 20px;
+     }
+     div.opt-abs-txt span.txt {
+         display: inline-block;
+         height: 35px;
+         overflow: hidden;
+         position: relative;
+         top: 0;
+         font-size: 25px;
+     }
+     div.frm-fld-group.bu label {
+         font-size: 18px;
+         width: 30%;
+         height: 50px;
+     }
+     div.frm-fld-group.bu .bu-frm-fld {
+         width: 70%;
+         height: 50px;
+         font-size: 22px;
+     }
+     div.highlighted-descriptions-area h2,
+     div.bu-feautes-listing h2{font-size: 40px;}
+     div.highlighted-descriptions-area h3.style-b{font-size: 22px;}
+     div.highlighted-descriptions-area p,
+     div.bu-feautes-listing p{font-size: 18px;}
+     div.feature-grid-txt h4,div.bu-feautes-listing h3{font-size: 20px;}
+     div.bu-feautes-listing h3{margin-bottom: 40px;}
+     div.feature-grid-txt img{width: 30px;}
+     div.feature-grid-txt p{margin-top: 20px;}
+     div.feature-grid-txt h4{margin-bottom: 20px;}
+
+     div.bu-footer-style-1 h3.btm-text{font-size: 30px;}
+     div.bu-footer-style-1 h2{font-size: 30px;}
+     div.bu-footer-style-1 p{font-size: 18px;}
+
+     div.bu-ftr-contact-frm div.title-frm{font-size: 25px;margin-bottom: 0px;}
+     div.bu-ftr-contact-frm p{font-size: 18px;margin-bottom: 10px;}
+     div.bu-ftr-contact-frm .frm-grp-btn input.btnSubmt{font-size: 18px;}
+
+	 div.network-landing-top div.network-tag a{padding:5px 10px 10px;}
+	 div.network-landing-top div.network-tag a{font-size:20px;}
+
+      div.bu-tabs ul.nav-tabs li a{font-size: 16px;}
+      div.dania-tab-with-right-img-content{background-size: 300px !important;min-height: 450px;background-position: bottom right !important;}
+      div.dania-tab-with-right-img-content h4{font-size: 22px;}
+      div.fixed-with-contacting-box{padding-top: 0px;}
+      div.box-contacting.style-dark h2{font-size: 35px;}
+
+
+      div#slider-glintr h2.lg-text{font-size: 70px;}
+      div.heading-w-sub-heading h2{font-size: 60px;}
+      div.heading-w-sub-heading h3{font-size: 35px;}
+      div.bu-single-feature div.link, div.bu-single-feature div.link a{font-size: 16px;}
+       div.bu-single-feature div.link{margin-bottom: 15px;}
+      div.bu-single-feature p{font-size: 16px;}
+
+      div.frm-bu-style-10 h2.frm-heading{font-size: 60px;}
+      div.bu-video-box-fixed-width h2.v-heading{font-size: 40px;}
+
+      div.caption-w-bg h1{font-size: 50px;}
+      div.caption-w-bg p{font-size: 25px;}
+      div.heading-w-sub-heading p.desc{font-size: 30px;}
+      div.heading-w-sub-heading h2{font-size: 50px;}
+      */div.bu-benifits-box div.ic{width: 70px;}*/
+      /*div.bu-benifits-box div.txt{padding-left: 70px;font-size: 30px;}*/
+      .bu-benitifts-info{font-size: 18px;}
+
+      div.frm-bu-style-11 h2{font-size: 30px;}
+      div.frm-bu-style-11 p{font-size: 18px;}
+
+}
+@media (max-width: 1599px){
+
+     .container{width: 1170px;}
+     div.single-post-comment{
+          padding:  15px 30px;
+     }
+
+     div.content-header h1.pg-title{font-size: 40px;}
+     div.content-header div.pg-desc{font-size: 18px;}
+
+     div.profile-view-area,div.content-header{min-height: 400px;padding: 15px 0px;}
+     div.content-header div.overlay-box.min-height{min-height: 430px;}
+
+     div.content-area-full{padding: 50px 0px;}
+     div.content-area-full h2.pg-heading{font-size: 40px;}
+
+     div.create-profile-form,div.login-form label{font-size: 22px;}
+     div.create-profile-form, .form-control, div.login-form .form-control{font-size: 22px;height: 50px;}
+     div.create-profile-form div.error-msg,div.create-profile-form div.notice-field,
+     div.login-form div.error-msg,div.login-form div.notice-field{font-size: 16px;}
+     div.create-profile-form{}
+
+     div.fancy-checkbox .checkbox-click-target{font-size: 22px;}
+     div.fancy-checkbox .checkbox-box{border-width: 2px;top: 6px;}
+
+
+
+
+     div.profile-view-container{padding: 50px 15px;}
+     div.profile-view-container div.profile-image div.box{width: 200px;height: 200px;}
+     div.profile-view-container div.profile-image-changer{
+		     width: 40px;
+				height: 40px;padding: 5px;
+				line-height: normal;right:0px;
+	 }
+	 div.profile-view-container div.profile-image-changer img {
+		max-width: 100%;
+		width: 20px !important;
+		height: auto !important;
+		position: relative;
+		display: inline-block !important;
+		margin: 0 auto !important;
+		left: 5px;
+		top: 4px;
+	}
+     div.profile-view-container .user-title, div.profile-view-container .subscription-title{font-size: 20px;}
+     div.profile-view-container div.user-address, div.profile-view-container div.subscription-details{font-size: 15px;    max-height: 130px;}
+     div.profile-view-container div.user-email a, div.profile-view-container div.subscription-link a{font-size: 15px;}
+     div.profile-view-container div.edit-information a, div.profile-view-container div.edit-subscription a{font-size: 15px;}
+     div.profile-view-container div.edit-information, div.profile-view-container div.edit-subscription{margin-top: 20px;}
+
+     div.edit-profile-box div.profile-image div.img{width: 150px;height: 150px;}
+     div.edit-profile-box div.profile-image-changer {width: 40px;height: 40px;padding: 12px;line-height: 17px;right: -17px;}
+     div.form-elments label{font-size: 26px;}
+     div.form-elments .form-control {font-size: 26px;min-height: 60px;}
+     div.fancy-radio-button .radio-button-click-target{font-size: 26px;}
+     div.fancy-radio-button .radio-button-circle {width: 35px;height: 35px;left: -25px;}
+     div.form-elments div.form-field h3{font-size:30px;}
+     div.form-elments div.form-btn .btn-primary{font-size: 28px;}
+
+     div.form-elments div.form-field{width: 600px;}
+
+     div.create-post-elmnts div.post-intro-text{height: 250px;padding: 15px;}
+     div.create-post-form-elmnts{padding: 0px 50px;}
+     div.create-post-form-elmnts h3{font-size: 20px;margin-top: 0px;}
+     div.create-post-form-elmnts textarea{min-height: 100px;}
+     div.create-post-form-elmnts{max-height: initial;}
+     div.create-post-fixed-outer div.create-post-elmnts{width: 370px;}
+     div.create-post-fixed-outer div.create-post-body{padding: 0px;}
+     div.create-post-form-elmnts{padding: 15px;}
+     div.create-post-elmnts div.post-intro-overlay div.post-title{font-size: 22px;}
+     div.create-post-elmnts div.post-intro-overlay div.post-desc{font-size: 14px;}
+     div.create-post-fixed-outer div.btn-create-post span.txt{font-size: 20px;}
+     div.create-post-fixed-outer div.btn-create-post div.angle-img img{width: 50px;}
+     div.create-post-fixed-outer div.btn-create-post div.angle-img {top: -22px;}
+
+     div.content-logo-text{font-size: 80px;margin-top: 50px !important;}
+     div.about-us-sub-heading{font-size: 40px;margin-bottom: 30px;}
+     div.about-us-desc{font-size: 20px;}
+
+     .modal-header h4{font-size: 30px;}
+     .modal-body p{font-size: 25px;}
+     .popup-buttons a.btn{    font-size: 24px;
+    height: 50px;
+    line-height: normal;}
+
+     div.content-business-unit h1.pgHeading,.contact-us-elmnts h1.pgHeading{font-size: 45px;}
+
+
+     div.content-business-unit p,.contact-us-elmnts div.address-info p{font-size: 22px;}
+
+     div.form-business-unit label,.contact-form-elements label{font-size: 30px;}
+
+     div.form-business-unit .form-control,.contact-form-elements .form-control {height: 60px;font-size: 30px;}
+
+     .btnSubmit, .btn-popup{font-size: 30px;height: 70px;line-height: 50px;
+     }
+     div.content-business-unit div.user-box div.user-name{font-size: 30px;}
+     div.content-business-unit div.user-box div.user-desc{font-size: 25px;}
+     div.content-business-unit div.price-lbl span.block{font-size: 70px;}
+
+     .contact-us-elmnts div.ivn-img{width: 180px;height: 180px;}
+
+     div.single-home-slide div.visitors-box p{font-size: 18px;width:100%;}
+     div.single-home-slide div.visitors-box{margin-top: 0px;}
+     div.single-home-slide div.visitors-box .btn-primary{font-size: 16px;}
+     div.home-top-area .slick-slide {margin-right: 15px;margin-left: 15px;}
+     div.home-top-area .slick-slider{margin: 0px -15px;}
+
+     div.slide-networks div.single-network-cat-full p{font-size: 16px;    margin-bottom: 0px;}
+     div.slide-networks div.single-network-cat-full a.tp-right-link{font-size: 14px;}
+     div.single-network-cat-full a.tp-right-link{min-width:130px;}
+	 .signup-with-fb .btnSubmt {
+			min-width: 240px !important;
+		}
+     div.slide-ad-post div.link a{font-size: 18px;line-height: normal;height: auto;padding: 10px 15px;}
+
+     div.single-slide-news div.link{margin-bottom: 0px;}
+     div.single-slide-news div.link a{font-size: 14px;}
+     div.single-slide-news div.details{padding: 0px;font-size:12px; }
+
+     div.box-title{font-size: 16px;}
+
+     div.subscription-top-box{min-height: 480px;padding: 20px 0px;}
+     div.subscription-pkg{min-height: 440px;}
+     div.subscription-pkg h3{font-size: 28px;}
+     div.subscription-pkg p{font-size: 20px;}
+     div.subscription-pkg b.price{font-size: 35px;}
+
+     div.register-login-area h3{font-size: 18px;}
+     div.register-login-area div.field-box{padding: 0px 15px;}
+     div.register-login-area label{font-size: 16px;}
+     div.register-login-area .form-control{font-size: 16px;height: 35px;}
+     div.register-login-area div.notice-field{font-size: 12px;}
+     div.register-login-area div.fancy-checkbox .checkbox-click-target{font-size: 14px;}
+     div.register-login-area .btnSubmt{font-size: 16px;height: 40px;}
+
+	div.slide-ad-post div.image img {
+	    min-height: inherit;
+	    height: 180px;
+	    width: 100%;
+	}
+	div.search-content-block form{
+		width:360px;
+	}
+
+
+
+}
+@media (max-width: 1199px){
+     .container{width: 970px;}
+
+     div.profile-view-container div.profile-image div.box{width: 250px;height: 250px;}
+     div.profile-view-container div.user-title, div.profile-view-container div.subscription-title{font-size: 25px;    margin-top: 12px;}
+     div.profile-view-container div.user-address, div.profile-view-container div.subscription-details {font-size: 20px;min-height: 85px;}
+     div.profile-view-container div.edit-information a, div.profile-view-container div.edit-subscription a{font-size: 20px;}
+     div.profile-view-container div.edit-information, div.profile-view-container div.edit-subscription{margin-top: 50px;}
+     div.profile-view-container div.user-email a, div.profile-view-container div.subscription-link a {font-size: 22px;}
+     div.profile-view-container{padding: 25px 15px;}
+     div.profile-view-container div.profile-image{margin-left: 0px;}
+
+
+
+
+}
+@media (max-width: 1024px){
+     .container{width: 970px;}
+     .modal-dialog.w1060{width: 96% !important;}
+     div.single-slide-news div.image{width: 55%;}
+     div.single-slide-news div.desc{width:45%;    padding: 0px 10px;
+    padding-top: 5px;}
+    div.single-slide-news div.link a{font-size: 12px;}
+
+    div.category-landing-top,div.network-landing-top{min-height: 400px;}
+
+    div.category-landing-top h1.cat-title{font-size: 75px;}
+    div.single-network-cat-full p{font-size: 25px;}
+    div.network-listing div.single-network-cat-full{min-height: 195px;}
+    div.category-landing-desc p{font-size: 22px;}
+    div.category-landing-desc{margin-bottom: 0px;}
+    div.network-landing-top h1.cat-title{font-size: 60px;}
+
+    div.box-title{font-size: 18px;}
+
+    div.register-login-area label{font-size: 14px;}
+    div.register-login-area .btnSubmt{font-size: 14px;padding: 10px 0px;}
+    div.register-login-area div.grayBox{min-height: 550px;padding: 10px;}
+    div.register-login-area div.field-box{padding: 0px 10px;}
+
+	.ctnt-elmts .m-h-520{min-height:615px;}
+     div.elmnt-hidn{display: none !important;}
+     div.elmnt-shwng{display: block !important;}
+     div.profile-view-container div.profile-image{width: 300px !important;}
+     div.profile-view-container div.profile-information{width: 55%;}
+     div.profile-view-container div.user-address, div.profile-view-container div.subscription-details{min-height: inherit;}
+     div.profile-view-container div.user-address a, div.profile-view-container div.subscription-details a{
+          color: #fff;text-decoration:underline;
+     }
+     div.elmnt-full{width: 100% !important;}
+
+}
+@media (max-width: 991px){
+     .container{width: 750px;}
+     div.caption-w-bg h1{font-size: 30px;}
+     div.caption-w-bg p{font-size: 18px;}
+}
+@media (max-width: 767px){
+     .container{width: auto;}
+     .hidden-sm-down{
+        display: none !important;
+     }
+}
+@media only screen and (max-width:1199px){
+     .h-lft {
+         width: 20%;
+     }
+     .h-rgt {
+         width: 30%;
+     }
+     .tp-search{width: 100%;}
+}
+@media only screen and (max-width:767px){
+    .hidden-sm-down{
+        display: none !important;
+     }
+}
+@media only screen and (max-width:768px){
+     .h-rgt {width: 34%;}
+     .h-cntr{width: 46%;}
+     
+
+
+     div.profile-view-container div.profile-image div.box{width: 150px;height: 150px;}
+     div.profile-view-container div.profile-image{width: 24%;}
+     div.profile-view-container div.profile-image-changer{width: 50px;height: 50px;padding: 15px;right: -20px;}
+     div.profile-view-area{min-height: 330px;}
+     div.profile-view-container div.profile-information{width: 76%;}
+     div.profile-view-container div.user-title, div.profile-view-container div.subscription-title{font-size: 22px;}
+     div.profile-view-container div.user-address, div.profile-view-container div.subscription-details,div.profile-view-container div.user-email a, div.profile-view-container div.subscription-link a,div.profile-view-container div.edit-information a, div.profile-view-container div.edit-subscription a{font-size: 18px;}
+     div.profile-view-container div.user-address, div.profile-view-container div.subscription-details{min-height: 65px;}
+     div.profile-view-container div.edit-information, div.profile-view-container div.edit-subscription{margin-top: 20px;}
+
+     div.create-post-form-elmnts{max-height: initial;}
+     div.about-us-sub-heading{font-size: 28px;}
+
+     div.content-business-unit div.user-box{margin-top: 50px;}
+
+     .btnSubmit.mobile-centered {width: 70%;    margin: 0 auto;}
+     div.form-business-unit div.btn-box{text-align: center;}
+
+
+     div.single-home-slide h3.title{font-size: 16px;}
+     div.single-home-slide div.visitors-box p{font-size: 14px;}
+     div.slide-networks div.single-network-cat-full a.tp-right-link{font-size: 9px;}
+     div.slide-networks div.single-network-cat-full p{font-size: 14px;}
+     div.slide-ad-post h4{font-size: 14px;}
+     div.slide-ad-post div.desc{font-size: 14px;}
+     div.slide-ad-post div.link a{width: 100%;font-size: 14px;}
+
+     div.single-slide-news div.image{width: 30%;}
+     div.single-slide-news div.desc{width: 70%;}
+
+
+     div.network-listing div.single-network-cat-full{min-height: 145px;}
+     div.category-landing-desc p{font-size: 18px;}
+     div.single-network-cat-full p{font-size: 20px;}
+
+     div.network-landing-top h1.cat-title{font-size: 50px;}
+     div.network-listing-title{font-size: 18px;}{font-size: 16px;}
+
+     div.subscription-top-box{min-height: 400px;padding: 15px 0px;}
+     div.subscription-pkg{min-height: 350px;padding: 15px;}
+     div.subscription-top-box div.gray-block{padding: 0px 10px;}
+     div.subscription-pkg h3{font-size: 18px;margin-top: 5px;margin-bottom: 10px;}
+     div.subscription-pkg p {font-size: 16px;line-height: 22px;}
+     div.subscription-pkg b.price{font-size: 25px;}
+	 .user-loggedin-tp div.user-details{display:none;}
+	 div.slide-ad-post div.image img {
+		min-height: 160px !important;
+	}
+     div.payments_dis_tbl{margin-bottom: 3px;}
+     div.payments_dis_tbl table td, div.payments_dis_tbl table th{font-size: 14px;}
+     div.payments_dis_tbl table td, div.payments_dis_tbl table th{padding-top: 4px;padding-bottom: 4px;}
+     .mobLR3{padding: 3px !important;}
+     div.payments_dis_tbl h3{font-size: 20px;}
+     div.payments_dis_tbl table tr td:first-child, div.payments_dis_tbl table tr th:first-child {
+         width: auto;
+     }
+     div.bu-ftr-contact-frm{width: 330px;}
+
+}
+@media only screen and (max-width:767px){
+     .h-cntr{display: none;}
+     .user-loggedin-tp .user-link-img{display: none;}
+     .h-lft{border-bottom: 2px #000000 solid;padding: 0px 15px;background: #fff;}
+     div.logo{margin: 7px 0px;}
+     .h-rgt,.h-lft{width: 100%;}
+     .h-rgt{padding: 0px;}
+     .user-loggedin-tp{width: 100%;display: none;background: #fff;padding: 10px 0px;}
+     .user-loggedin-tp.active{display: block;}
+     header {padding:0px;border: 0px;background: none;}
+     div.logo {float: left;}
+     #mobNavButton{
+          display: inline-block !important;
+          position: relative;
+          float: right;
+     }
+     #mobNavButton img {
+         width: 28px;
+		 margin-top:14px;
+     }
+     .tp-user-links {
+         position: relative;
+         display: block;
+         box-shadow: none;
+         padding: 0px;
+
+         margin-top: 15px;
+     }
+     .tp-user-links ul {
+         box-shadow: none;
+         padding: 0px;
+         width: 90%;
+         margin: 0 auto;
+         float: none;
+         clear: both;
+         border-top: 1px #333333 solid;
+     }
+     .tp-user-links li.divider{
+          border-top: 1px #333333 solid;
+     }
+     .tp-user-links li.divider img{display: none;}
+     .user-loggedin-tp div.user-details,.user-loggedin-tp .user-photo {
+         display: none;
+     }
+     .mb-usr-details{float: none;
+     display: block !important;text-align: center;}
+     .mb-usr-details div.user-details, .mb-usr-details .user-photo {
+          display: inline-block;
+          float: none;
+     }
+     .mb-usr-details div.user-details {
+         position: relative;
+         top: 11px;
+         margin-left: 10px;
+     }
+     .user-loggedin-tp div.user-name{font-size: 18px;}
+     .tp-user-links a {
+         font-size: 18px;
+     }
+     .mob-searchbar{
+          display: block !important;
+          background: #fff;
+          padding: 5px 15px;
+          border-bottom: 2px #000000 solid;
+     }
+     .mob-searchbar .tp-search {
+          margin: 0px;
+     }
+     .mob-searchbar .tp-search form{
+          clear: both;
+          width: 100%;
+          position: relative;
+     }
+     .mob-searchbar .tp-search input[type="submit"]{
+          position: absolute;
+          top: 10px;
+          right: 15px;
+          outline: 0 none;
+          box-shadow: none;
+          background: url(../images/icons/ic-search-submit-mb.png) no-repeat;
+          border: 0px;
+          background-size: 10px;
+     }
+     .mob-searchbar .tp-search .form-control{
+          background: #dddddd;
+          color: #000;
+          font-size: 18px;
+          padding: 10px;
+          height: 40px;
+          padding-right: 50px;
+     }
+
+     .mob-searchbar .tp-search .form-control::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+       color: #000;
+       opacity: 1;
+     }
+     .mob-searchbar .tp-search .form-control::-moz-placeholder { /* Firefox 19+ */
+          color: #000;
+          opacity: 1;
+     }
+     .mob-searchbar .tp-search .form-control:-ms-input-placeholder { /* IE 10+ */
+          color: #000;
+          opacity: 1;
+     }
+     .mob-searchbar .tp-search .form-control:-moz-placeholder { /* Firefox 18- */
+          color: #000;
+          opacity: 1;
+     }
+
+     .mob-searchbar .tp-search .form-control:focus::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+       color: #000;
+       opacity: 0.7;
+     }
+     .form-control:focus::-moz-placeholder { /* Firefox 19+ */
+          color: #fff;
+          opacity: 0.7;
+     }
+     .form-control:focus:-ms-input-placeholder { /* IE 10+ */
+          color: #fff;
+          opacity: 0.7;
+     }
+     .form-control:focus:-moz-placeholder { /* Firefox 18- */
+          color: #fff;
+          opacity: 0.7;
+     }
+
+
+     div.mob-searchbar {
+
+     }
+     header.site_header {
+         position: fixed;
+         top: 0px;
+         left: 0px;
+         right: 0px;
+         z-index: 999;
+         transition: all 0.3s ease 0s;
+     }
+
+     .removeMobPadding {
+         padding: 0px;
+     }
+     div.content-area{
+          padding-top: 0px;
+     }
+
+     div.comment-shower-mobile{display: none !important;}
+     div.comment-shower-mobile.active{display: block !important;}
+     div.post-comments{display: block;margin-bottom: 12px;}
+     div.post-comments.active{display: block;}
+     div.single-ivn-post{padding-bottom: 0px;}
+
+     div.edit-profile-box,div.profile-view-area, div.cms-content{
+          margin-top: 114px;
+     }
+     div.profile-view-area{min-height:auto;padding: 15px 0px;}
+     div.profile-view-container{padding: 15px 0px;}
+     div.profile-view-container div.profile-image div.box{width: 125px;height: 125px;}
+     div.profile-view-container div.profile-image{
+          width: 40%;    margin-top: 20px;
+     }
+     div.profile-view-container div.profile-information{padding-left: 0px;width: 60%;}
+     div.profile-view-container div.edit-subscription{display: none;}
+     div.profile-view-container div.profile-image-changer {width: 30px;height: 30px;padding: 8px;right: -15px;line-height: 14px;}
+     div.profile-view-container div.user-title, div.profile-view-container div.subscription-title{margin-top: 5px;font-size: 18px;font-weight: bold;}
+     div.profile-view-container div.user-address, div.profile-view-container div.subscription-details{min-height: auto;}
+     div.profile-view-container div.user-address, div.profile-view-container div.subscription-details{font-size: 14px;margin-top: 0px;line-height: normal;}
+     div.profile-view-container div.user-address, div.profile-view-container div.subscription-details, div.profile-view-container div.user-email a, div.profile-view-container div.subscription-link a, div.profile-view-container div.edit-information a, div.profile-view-container div.edit-subscription a{font-size: 14px;}
+
+     div.posts-by-mob{float: left;width: 100%;text-align: center;background: #dddddd;display: block !important;clear: both;}
+     div.posts-by-mob a{display: inline-block;font-size: 20px;color: #333333;padding: 10px 10px;line-height: normal;}
+
+     div.form-elments div.form-field{width: 100%;padding: 0px 10px;}
+     .no-margin{margin: 0px !important;}
+     div.form-elments div.form-btn .btn-primary{width: 100%;min-width: 100%;    font-size: 18px;}
+     div.form-elments label,div.fancy-radio-button .radio-button-click-target{font-size: 18px;}
+     div.form-elments .form-control{font-size: 18px;min-height: 50px;}
+     div.fancy-radio-button{margin: 6px 10px;}
+     div.fancy-radio-button .radio-button-circle {width: 20px;height: 20px;left: -11px;top: 1px;}
+     div.form-elments div.form-field h3{font-size: 20px;}
+     div.form-elments div.form-links a{font-size: 18px;}
+
+     div.create-post-fixed-outer div.create-post-body{display: none !important;}
+     div.create-post-fixed-outer div.create-post-elmnts{width: 100%;}
+     div.create-post-fixed-outer div.col-md-12{padding: 0px;}
+     div.create-post-fixed-outer div.btn-create-post div.angle-img{right: 20px;}
+     .pg-create-post {float: left;width: 100%;margin-top: 114px;background: #fff;}
+
+     div.create-profile-form div.signup-with-fb a,div.login-form div.signup-with-fb a {min-width: unset;width: 80%;font-size: 16px;line-height: normal;height: auto;margin: 0 auto;}
+     div.content-header {height: auto;min-height: initial;padding: 15px 0px;}
+     div.content-header div.overlay-box.min-height{min-height: 250px;}
+     div.content-header h1.pg-title {font-size: 22px;    margin-top: 10px;margin-bottom: 10px;}
+     div.content-header div.pg-desc {font-size: 16px;padding: 0px;}
+
+     div.content-area-full{padding: 15px 0px;}
+     div.content-area-full h2.pg-heading{font-size: 28px;}
+     div.create-profile-form .col-lg-12, div.login-form .col-lg-12{padding: 0px;}
+     div.create-profile-form label, div.login-form label {font-size: 16px;width: 35%;}
+     div.create-profile-form div.field-ctnt, div.login-form div.field-ctnt {float: left;width: 65%;}
+     div.fancy-checkbox .checkbox-click-target{font-size: 16px;}
+     div.create-profile-form .btnSubmt,div.login-form .btnSubmt {font-size: 16px;line-height: normal;height: auto;}
+
+     div.create-profile-form div.or,div.login-form div.or {font-size: 16px;margin: 10px 0px;}
+
+     div.login-form .link-forgort-password{padding-left: 0px;}
+     div.login-form .link-forgort-password a{font-size: 16px;}
+
+     div.content-logo-text {font-size: 50px;margin-top: 25px !important;}
+     div.about-us-sub-heading{font-size: 16px;}
+     div.about-us-desc{font-size: 14px;}
+
+
+     .popup-buttons .min-width-500{min-width: 100%;}
+     .modal-content.padding-right-85{padding-right:15px !important;}
+     .modal-content.padding-left-85{padding-left:15px !important;}
+     .modal-header h4{font-size: 28px;}
+     .modal-header.margin-bottom-55 {margin-bottom: 15px !important;}
+     .modal-body.padding-bottom-100 {padding: 10px 0px 35px !important;}
+     .popup-buttons.margin-top-70 {margin-top: 30px !important;}
+
+
+     div.content-business-unit div.user-box{display: none;}
+
+     div.content-business-unit h1.pgHeading,.contact-us-elmnts h1.pgHeading {font-size: 25px;    margin: 10px 0px 15px !important;}
+
+     div.content-business-unit{padding: 15px 0px;}
+     div.content-business-unit p{font-size: 14px;}
+     div.content-business-unit div.price-lbl{margin-top: 20px;}
+     div.content-business-unit div.price-lbl{font-size: 16px;}
+     div.content-business-unit div.price-lbl span.block {font-size: 18px;font-weight: bold;float: right;width: auto;margin: 0px;}
+     div.form-business-unit{margin-top: 30px;}
+
+     div.form-business-unit label,
+     .contact-form-elements label,
+     p.error-msg
+     {font-size: 16px;}
+
+     div.form-business-unit .form-control,.contact-form-elements .form-control
+     {height: 48px;font-size: 16px;}
+
+     .btnSubmit, .btn-popup,.popup-buttons a.btn {font-size: 20px;height: 50px;line-height: 50px;padding: 0px;}
+
+     .contact-form-elements div.button-box{margin-top: 0px;}
+     .contact-form-elements div.button-box .btnSubmit{width: 80%;}
+     .contact-form-elements label{padding-left: 15px;}
+
+     div.home-top-area div.overlay-area{min-height: inherit;}
+     div.home-top-area .slick-slide{margin: 0px;    padding: 0px;}
+     div.home-top-area .slick-arrow{display: none !important;}
+
+     .mobo-hidden{display: none !important;}
+     .mobo-show{display: block !important;}
+
+     div.home-top-area .slick-slider{margin: 0px;}
+     div.home-top-area{min-height: inherit;padding:0px;}
+     div.slide-networks div.box{margin: 0px;}
+     div.home-top-area div.overlay-area{padding: 10px;}
+     div.slide-networks div.single-network-cat-full {margin: 5px 2%;width: 46%;}
+
+     div.single-home-slide div.visitors-box .lft {/*float: left;width: 50%;*/ padding-right: 10px;}
+     div.single-home-slide div.visitors-box .rgt {float: left;width: 50%;}
+     div.single-home-slide div.visitors-box div.links a{margin-top: 0px;margin-bottom: 15px;}
+     div.single-home-slide div.visitors-box label.checkbox-click-target {padding-top: 0px;font-size: 11px;}
+     div.single-home-slide div.visitors-box div.links a {font-size: 11px !important;padding: 5px 5px;line-height: normal !important;height: auto !important;width: 100% !important;}
+     div.single-home-slide div.visitors-box div.fancy-checkbox{margin-top: 0px;}
+     div.single-home-slide div.visitors-box p {font-size: 14px;font-weight: normal;}
+     div.visitors-box div.already-member{display: block !important;float: left;width:100%;text-align: center;}
+     div.visitors-box div.already-member p{text-align: center;font-size: 12px;}
+     div.slide-networks div.single-network-cat-full:nth-child(5),div.slide-networks div.single-network-cat-full:nth-child(6){display: none;}
+
+     div.slide-ad-post .lft {float: left;width: 50%;padding-right: 10px;}
+     div.slide-ad-post .rgt {float: left;width: 50%;padding-right: 0px;}
+     div.slide-ad-post div.link a{padding: 5px 10px;font-size: 12px;}
+     div.single-home-slide h3.title{margin-bottom: 15px;}
+     div.slide-ad-post div.mob-desc{display: block !important;text-align: center;color: #fff;font-size: 12px;}
+     div.slide-ad-post div.desc{font-size: 12px;}
+     div.slide-ad-post h4{margin-bottom: 10px;}
+     div.slide-ad-post div.image{margin-top: 0px;}
+     div.single-slide-news div.readmore a{font-size: 12px;}
+     div.single-slide-news div.image{width: 45%;}
+     div.single-slide-news div.desc{width: 55%;}
+     div.single-slide-news div.readmore{margin-top: 5px;}
+     div.single-slide-news:nth-child(2){display: none;}
+
+
+     div.category-landing-top, div.network-landing-top{min-height: 200px;}
+
+     div.category-landing-top h1.cat-title{font-size: 30px;}
+     div.category-landing-desc{margin-top: 15px;}
+     div.category-landing-desc p, div.network-landing-desc p{font-size: 16px;    line-height: normal;}
+     div.network-listing div.single-network-cat-full,div.network-listing div.single-network-cat-des-full p{min-height: inherit;}
+     div.single-network-cat-des-full{padding: 5px 0px;}
+
+     div.network-landing-top div.network-tag a{font-size: 18px;}
+     div.network-landing-top h1.cat-title{font-size: 22px;}
+     div.network-landing-desc{padding: 15px 0px;}
+     div.network-landing-desc{margin-bottom: 15px;}
+     div.network-landing-top div.network-tag{right: 0px;}
+
+     div.single-network-cat-des-full{padding: 5px 10px;}
+     div.search-content-block form{width: 100%;padding: 0px 20px;}
+     div.search-content-block .btn-primary{width: 80%;}
+     div.search-content-block input.search-field{margin-bottom: 15px;}
+     div.subscription-top-box div.gray-block.web{display: none;}
+     div.subscription-top-box{background-position:bottom center;min-height: 400px;}
+     div.subscription-pkg{min-height:370px;padding: 20px 30px;}
+     div.subscription-pkg h3{text-align: center;font-size: 22px;}
+     div.subscription-pkg div.btn-block{float: left;width: 100%;text-align: center;margin-top: 20px;margin-bottom: 10px;}
+     div.subscription-pkg a.btn{width: 263px;height: 51px;padding: 0px;font-size: 35px;color: #fff;font-weight: bold;line-height: normal;}
+     div.subscription-pkg div.fancy-checkbox{width: 300px;margin: 0 auto;float:none;clear: both;}
+
+     div.register-login-area div.grayBox{margin-top:0px;margin-bottom: 15px;min-height: auto;}
+     div.register-login-area div.desc{margin: 0px 0px 15px;}
+
+     .content-header,div.pg-business-units,div.category-landing-top,div.search-content-block,div.home-top-area,div.subscription-top-box,div.network-landing-top,div.content-area {
+         margin-top: 92px;
+     }
+
+	 header .h-lft, header .h-rgt, header .h-cntr{width:100%;}
+	 div.slide-ad-post div.image img {
+		min-height: initial !important;
+	}
+
+	.ctnt-elmts{margin-top:0px;}
+	.ctnt-elmts .m-h-520{min-height:auto;}
+	.ctnt-elmts .padding40 {
+		padding: 10px !important;
+	}
+	.ctnt-elmts .gray-bg {
+		overflow: hidden;
+		margin-bottom: 10px;
+	}
+	.no-m-p{padding:0px;}
+	.ctnt-elmts h2{margin-top:20px;margin-bottom:0px;}
+
+	div.create-post-fixed-outer div.create-post-body.active {
+		display: block !important;
+	}
+	div.create-post-fixed-outer div.create-post-body {
+
+		overflow: scroll;
+		margin: 0px;
+		max-height: 100%;
+		position: relative;
+		bottom: 4px;
+		box-shadow: none;
+		border-bottom: 0px;
+	}
+	div.single-home-slide div.visitors-box div.links.desktop {
+	    display: none;
+	}
+	div.logo img {
+	    width: 60px;
+	}
+	.mob-searchbar .tp-search .form-control{height: 35px;}
+	.mob-searchbar .tp-search input[type="submit"]{top: 8px;}
+
+     div.Subscriptions_new_pkgs{width: 100%;}
+     div.Subscriptions_new_pkgs td{width: 100% !important;display: block;margin-bottom: 15px;}
+     div.Subscriptions_new_pkgs div.bottom_desc{margin: 5px 0px 0px;font-size: 18px;}
+     div.Subscriptions_new_pkgs div.pkgDesc{padding: 15px;}
+     div.Subscriptions_new_pkgs div.pkgTitle{font-size: 22px;padding: 10px 15px;}
+
+	 div.create-profile-form .form-control, div.login-form .form-control {
+		font-size: 14px;
+		height: 36px;
+		line-height: normal;
+	}
+	div.create-profile-form div.field-box, div.login-form div.field-box{
+		margin-bottom:10px;
+	}
+	div.create-profile-form label, div.login-form label{
+		font-size:14px;
+	}
+	div.create-profile-form .col-sm-8 {
+		padding: 0px;
+	}
+	div.create-profile-form div.error-msg, div.create-profile-form div.notice-field, div.login-form div.error-msg, div.login-form div.notice-field{
+		font-size:12px;
+	}
+	.btn.disabled, .btn[disabled], fieldset[disabled] .btn{
+		opacity:0.8 !important;
+	}
+	div.create-profile-form div.fancy-checkbox.style-white .checkbox-click-target {
+		color: #000;
+		font-size: 14px;
+	}
+	div.create-profile-form div.fancy-checkbox.style-white .checkbox-box, div.create-profile-form div.fancy-checkbox.style-white .checkbox-click-target:focus .checkbox-box, div.create-profile-form div.fancy-checkbox.style-white .checkbox-click-target:focus .checkbox-box:before, div.create-profile-form div.fancy-checkbox.style-white .checkbox-click-target:hover .checkbox-box, div.create-profile-form div.fancy-checkbox.style-white .checkbox-click-target:hover .checkbox-box:before {
+		border-color: #343434;
+	}
+	.create-profile-form div.fancy-checkbox.style-white .checkbox-box:after {
+		background: url(../images/icons/img-checkbox.png) no-repeat;
+		background-size: 22px 22px;
+	}
+	div.create-profile-form .fancy-checkbox.style-white a {
+		color: #000 !important;
+	}
+	div.create-profile-form div.signup-with-fb, div.login-form div.signup-with-fb{
+		margin-bottom:0px;
+	}
+	div.create-profile-form .btnSubmt, div.login-form .btnSubmt {
+		font-size: 16px;
+		line-height: normal;
+		height: auto;
+		width: 300px !important;
+	}
+	div.create-profile-form .or.full-block.form-or.style-white {
+		color: #000 !important;
+	}
+	div.register-login-area {
+		margin-top: 60px;
+	}
+	div.register-login-area label {
+		width: 40%;
+	}
+	div.register-login-area div.field-ctnt {
+		float: left;
+		width: 60%;
+	}
+	div.register-login-area div.field-box {
+		padding: 0px 0px;
+		margin-bottom: 8px;
+	}
+	.tp-user-links ul{border-top:0px !important;}
+	.user-loggedin-tp .user-photo {
+		overflow: hidden;
+		line-height: normal;
+	}
+	.user-loggedin-tp .user-photo a {
+		display: block;
+		height: 100%;
+		width: 100%;
+	}
+	.user-loggedin-tp .user-photo li {
+		height: 100%;
+		display: block;
+		width: 100%;
+	}
+	.user-loggedin-tp div.user-details{text-align:left;}
+	div.single-network-cat-full a.tp-right-link {
+		min-width: 85px;
+	}
+	div.slide-networks div.single-network-cat-full img {
+		min-height: 90px;
+	}
+	div.slide-networks div.single-network-cat-full p {
+		font-size: 12px;
+	}
+	div.slide-ad-post div.image img{
+		height:90px;
+	}
+	div.slide-ad-post div.link a {
+		min-width: auto !important;
+		width: auto;
+		display: block;
+	}
+	body.pg_home .content-area {
+		margin-top: 0px !important;
+	}
+	div.network-landing-top div.network-tag a{
+		min-width:auto;
+	}
+     div.frm-rest-password{
+          margin: 15px 0px;
+          padding: 15px;
+     }
+     div.frm-rest-password div.frm-heading{
+          font-size: 18px;
+          margin-bottom: 15px;
+     }
+     div.frm-rest-password div.form-group{
+          margin-bottom: 15px;
+     }
+     div.frm-rest-password .btnSubmt{
+          margin-top: 18px;
+     }
+     div.reset-password-content{
+          font-size: 14px;
+     }
+     div.profile-view-container div.profile-image {
+         width: 40% !important;
+     }
+     div.profile-view-container div.profile-image div.uname{font-size: 18px;}
+     div.profile-view-container div.user-title, div.profile-view-container div.subscription-title{margin-bottom: 10px;}
+     div.profile-view-container div.user-address, div.profile-view-container div.subscription-details, div.profile-view-container div.user-email a, div.profile-view-container div.subscription-link a, div.profile-view-container div.edit-information a, div.profile-view-container div.edit-subscription a{
+          margin-top: 10px;
+     }
+
+     div.signup-new-flow div.overlayDiv{padding: 10px;}
+     div.signup-new-flow div.overlayDiv div.grayDiv h1 {
+         color: #fff;
+         font-size: 30px;
+         font-weight: 500;
+         text-align: center;
+         margin-top: 0px;
+         margin-bottom: 20px;
+     }
+     div.signup-new-flow div.overlayDiv div.grayDiv p{font-size: 14px;}
+     div.signup-new-flow div.overlayDiv div.grayDiv a.btn {
+         margin-top: 20px;
+         font-size: 18px;
+         width: auto !important;
+         min-width: 200px !important;
+         padding: 8px 0px;
+     }
+     div.signup-new-flow div.overlayDiv div.grayDiv{
+          padding: 20px;
+     }
+
+
+     div.business-unit-slider .bu-logo img.img-bdo-logo {
+         width: 100px;
+     }
+     div.business-unit-slider .bu-logo{bottom: 15px;right: 15px;}
+     div.bu-welcome-msg h1 {
+         font-size: 25px;
+         margin-top: 0px;    margin-bottom: 10px;
+     }
+     div.bu-welcome-msg p, div.cards-lists-with-thumb div.card-sm-desc, div.cards-lists-with-thumb div.card-desc-short p, div.cards-lists-with-thumb div.inText {
+         font-size: 14px;
+         line-height: 20px;
+     }
+     hr.style-black{margin: 20px 0px;}
+     div.cards-bu-loop{padding: 0px;}
+     div.cards-lists-with-thumb {
+         padding: 0px;
+         padding-bottom: 20px;
+         margin-bottom: 20px;
+     }
+     div.cards-lists-with-thumb div.media-element{width: 100%;padding: 0px !important;
+     margin-bottom: 10px;}
+     div.cards-lists-with-thumb div.card-content{width: 100%;}
+     div.cards-lists-with-thumb div.card-title{font-size: 22px;}
+     div.cards-lists-with-thumb div.inLink {
+         color: #fff;
+         display: block;
+         width: 100%;
+         text-align: center;
+         margin-top: 20px;
+     }
+     div.cards-lists-with-thumb div.inLink a {
+         width: auto;
+         display: inline-block;
+     }
+     div.bu-frm-content div.list-content div.txt-t {
+         font-size: 22px;
+         padding-right: 115px;
+     }
+     div.opt-abs-txt span.txt {
+         display: inline-block;
+         height: 25px;
+         overflow: hidden;
+         position: relative;
+         top: 0;
+         font-size: 18px;
+     }
+     div.opt-abs-txt span.circle {
+         width: 25px;
+         height: 25px;
+     }
+     div.opt-abs-txt{top: 0px;}
+     div.opt-abs-txt span.circle:after {
+
+         left: 3px;
+         top: 6px;
+         background-size: 15px;
+     }
+     div.bu-frm-content div.list-content p {
+         font-size: 14px;
+         margin-bottom: 10px;
+     }
+     div.bu-frm-content div.list-content{margin: 0px 0px 10px;}
+     .mob-padding-no {
+         padding: 0px !important;
+     }
+     div.frm-fld-group.bu label {
+         font-size: 14px;
+         width: 50%;
+         height: 40px;
+     }
+     div.frm-fld-group.bu .bu-frm-fld {
+         width: 50%;
+         height: 40px;
+         font-size: 16px;
+         padding: 10px;
+     }
+     div.frm-fld-group.bu div.fld-error{font-size: 12px;}
+     div.bu-frm-fld-btn-box{width: 100%;}
+     div.frm-fld-group.bu .bu-btn-wh{margin: 0px;}
+     .mob-no-height{height: auto !important;}
+     div.bu-frm-content{padding: 40px 0px 20px;}
+
+     div.bu-points h2.ptheading{font-size: 24px;}
+     div.bu-points div.pt-details{font-size: 14px;}
+     div.icon-w-txt-h div.txt {
+         font-size: 12px;
+         width: 100px;
+         padding-left: 5px;
+         margin-top: 7px;
+     }
+     div.bu-frm-dk-2 h2{font-size: 25px;margin-top: 0px;margin-bottom: 10px;}
+     div.bu-frm-dk-2 p{font-size: 14px;}
+     .frm-with-rounded-flds label{font-size: 14px;}
+     .frm-with-rounded-flds .rounded-fld {
+         height: 35px;
+         font-size: 16px;
+         padding: 10px;
+         border-radius: 6px;
+     }
+     div.business-unit-slider .bu-logo.top-left{
+          top: 20px;left: 20px;
+     }
+
+     div.highlighted-descriptions-area h2, div.bu-feautes-listing h2{font-size: 20px;}
+     div.highlighted-descriptions-area h3.style-b{font-size: 18px;margin-bottom: 10px;}
+     div.highlighted-descriptions-area p, div.bu-feautes-listing p{font-size: 14px;margin-bottom: 10px;}
+     div.bu-feautes-listing{padding-top: 0px;}
+     div.feature-grid-txt h4, div.bu-feautes-listing h3{font-size: 16px;}
+     div.bu-ftr-contact-frm {
+         width: 100%;
+     }
+     div.bu-footer-style-1{padding: 40px 15px;}
+	 div.single-home-slide div.visitors-box div.links a {
+		font-size: 11px !important;
+		padding: 5px 5px;
+		line-height: normal !important;
+		height: auto !important;
+		width: 100% !important;
+		display: block;
+		min-width: 100%;
+	}
+     div.business-unit-slider div.logo-bu-right img {
+         width: 100px;
+         margin-right: 20px;
+     }
+     div.bu-welcome-msg h1 {
+         font-size: 25px;
+         margin-top: 0px;
+         margin-bottom: 10px;
+         margin-top: 20px;
+     }
+     div.bu-tabs ul.nav-tabs li a {
+         font-size: 16px;
+         border-bottom: 1px #e4010c solid !important;
+     }
+     div.bu-tabs ul.nav-tabs li{margin-bottom: 0px !important;}
+     div.dania-tab-with-right-img-content{background-size: 200px !important;}
+     div.box-contacting.style-dark .label-txt {
+         text-align: left;
+         margin-bottom: 10px;
+         padding: 0px;
+     }
+     div.box-contacting div.cstm-chk-box-rounded-style{text-align: left;margin-bottom: 20px;}
+     div.box-contacting .fld-box{padding: 0px;}
+
+     div#slider-glintr h2.lg-text{font-size: 40px;}
+     div.heading-w-sub-heading h3{font-size: 25px;}
+     div.heading-w-sub-heading h2{font-size: 30px;}
+     div.bu-single-feature p{text-align: center;}
+     div.frm-bu-style-10 h2.frm-heading{font-size: 30px;}
+     .mob-padd{padding: 0px 15px;}
+     div.frm-bu-style-10 p {
+         font-size: 16px;
+         font-weight: 300;
+         line-height: 25px;
+         color: #fff;
+     }
+     div.frm-bu-style-10 div.frm-fld .frmfldbox{font-size: 16px;}
+     div.frm-bu-style-10 div.frm-fld label{font-size: 16px;height: auto;display: block;margin-bottom: 10px;}
+     div.frm-bu-style-10 .btnSubmt{margin-top: 0px;}
+     div.frm-bu-style-10{padding-bottom: 30px;}
+     div.bu-single-feature div.img{margin-top: 0px;}
+     div.bu-video-box-fixed-width h2.v-heading{margin-top: 0px;margin-bottom: 20px;font-size: 25px;}
+     div.bu-video-box-fixed-width{padding-top: 0px;}
+     div.bu-features{padding-bottom: 20px;}
+
+     div.caption-w-bg{left: 15px;top: 10px;padding: 10px;}
+     div.caption-w-bg h1{font-size: 20px;margin-bottom: 0px;}
+     div.caption-w-bg p{font-size: 14px;}
+
+     div.heading-w-sub-heading h2{font-size: 20px;}
+     div.heading-w-sub-heading p.desc{font-size: 16px;margin-bottom: 10px;}
+
+     div.bu-benifits-box {
+		display: inline-block;
+		margin: 25px auto;
+	}
+	div.bu-benifits-box .ic, div.bu-benifits-box .txt {
+		display: inline-block;
+	}
+	div.bu-benifits-box .ic img {
+		height: 42px;
+	}
+	div.bu-benifits-box .txt {
+		font-size: 13px !important;
+	}
+	 
+	 div.cookie-bar {
+		height: auto !important;
+		line-height: normal;
+		font-size: 13px;
+		padding: 5px;
+		padding-right: 65px;
+		text-align: left;
+	}
+
+	div.cookie-bar .close-cb {
+		height: auto;
+		margin-bottom: 0px;
+		top: 5px;
+		right: 5px;
+		height: 29px;
+		line-height: 29px;
+		padding: 0px 15px;
+		font-size: 14px;
+	}
+}
+@media (min-width: 768px){
+    .hidden-md-up{
+        display: none !important;
+    }
+
+}
+@media (max-width: 479px) {
+
+div.bu-benifits-box {
+	display: block;
+	width: 100%;
+}
+
+}
+@media (min-width: 1025px){
+    div.edit_profile_link{
+        display: none;
+    }
+}

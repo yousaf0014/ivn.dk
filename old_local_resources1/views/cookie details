@@ -1,0 +1,97 @@
+<h3>Formål</h3>
+<p>Formålet med denne cookiepolitik er, at forklare i hvilket omfang vi anvender cookies, herunder hvilke cookies der anvendes og hvorfor. Vi anbefaler dig derfor at læse denne politik omhyggeligt, inden du bruger vores hjemmeside. </p>
+<p>Udover anvendelse af cookies, behandler vi ligeledes personoplysninger, når du anvender vores hjemmeside. Du kan læse mere om vores persondatapolitik her.</p>
+<br/>
+<h3>Denne hjemmeside er ejet og drevet af: </h3>
+<p>IVN ApS, CVR-nr. 38982079, Oddervej 157A, 8270 Højbjerg (herefter ”IVN”, ”vi” eller ”os”). </p>
+<p>Såfremt du har spørgsmål til denne cookiepolitik, er du velkommen til at kontakte os på info@ivn.dk</p>
+<br/>
+<h3>Hvad er en cookie</h3>
+<p>En cookie er en lille tekstfil, som vi (eller 3. part) gemmer lokalt på din computers harddisk, smartphone eller andet it-udstyr (samlet "enheder”), når du besøger eller bevæger dig rundt på vores hjemmeside. Vi anvender cookies for vi via vores hjemmeside kan huske og genkende dine enheder, når du besøger vores hjemmeside igen. </p>
+<p>En cookie er ikke et program og indeholder kun tekst. En cookie indeholder ikke virus.</p>
+<br/>
+<h3>Vores cookies</h3>
+<p>Vi bruger nedenstående cookies på vores hjemmeside og til de formål som er beskrevet i det følgende:</p>
+<table style="width:100%" class="table table-bordered table-striped" cellspacing="0" cellpadding="5">
+<tr>
+	<td colspan="4">
+		<h3>Session cookies</h3>
+		<p>Vi bruger session cookies, for at gøre hjemmesiden brugbar ved at sikre grundlæggende funktionalitet, fx login, navigation, brug af indkøbskurv eller adgang til sikre områder på hjemmesiden. Disse cookies er således en nødvendighed for at hjemmesiden kan fungere. </p>
+	</td>
+</tr>
+<tr>
+	<th>Navn på cookie</th>
+	<th>Udbyder/modtager</th>
+	<th>Formål og data</th>
+	<th>Varighed</th>
+</tr>
+<tr>
+	<td>laravel_session</td>
+	<td>IVN.dk</td>
+	<td>Opretholde<br/>brugerlogin /<br/>Session-ID</td>
+	<td>2 timer</td>
+</tr>
+<tr>
+	<td>XSRF-TOKEN </td>
+	<td>IVN.dk</td>
+	<td>Opretholde<br/>brugerlogin /<br/>Session-ID</td>
+	<td>2 timer</td>
+</tr>
+
+</table>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<table style="width:100%" class="table table-bordered table-striped" cellspacing="0" cellpadding="5">
+<tr>
+	<td colspan="4">
+		<h3>Statistik cookies</h3>
+		<p>Vi bruger statistik cookies til at hjælpe med at forstå, hvordan du som besøgende anvender vores hjemmeside. Formålet er at kunne lave en side, der er relevant for dig som besøgende.</p>
+	</td>
+</tr>
+<tr>
+	<th>Navn på cookie</th>
+	<th>Udbyder/modtager</th>
+	<th>Formål og data</th>
+	<th>Varighed</th>
+</tr>
+<tr>
+	<td>XSRF-TOKEN</td>
+	<td>google-analytics.com</td>
+	<td>Sender data om den besøgendes  adfærd, på tværs af enheder og marketingkanaler.</td>
+	<td>Session</td>
+</tr>
+
+</table>
+<br/>
+<br/>
+<br/>
+<h3>Du har indflydelse på hvordan vi bruger cookies på vores hjemmeside</h3>
+<h3>Afvisning af cookies</h3>
+<p>Du har altid ret til at afvise brugen af cookies på din computer ved at ændre dine browser indstillinger. Hvor du specifikt finder indstillingerne, afhænger af hvilken browser du anvender. Vi vil dog gøre dig opmærksom på, at hvis du afviser brugen af cookies, kan der være mange funktioner og services, som du ikke kan anvende, fordi de forudsætter, at hjemmesiden kan huske de valg, du foretager.</p>
+<br/>
+<h3>Sletning af cookies</h3>
+<p>Du har altid ret til at slette cookies, som du tidligere har accepteret. Du kan se hvordan ved at klikke på det relevante link nedenfor:</p>
+<br/>
+<ul>
+<li><a target="_blank" style="color:white;text-decoration: underline;" href="http://windows.microsoft.com/da-dk/internet-explorer/delete-manage-cookies#ie=ie-11">Internet Explorer </a></li>
+
+<li><a target="_blank" style="color:white;text-decoration: underline;" href="https://support.mozilla.org/da/kb/slet-cookies-fjerne-oplysninger-som-websteder-har-1">Mozilla Firefox</a></li>
+
+<li><a target="_blank" style="color:white;text-decoration: underline;" href="https://support.google.com/chrome/answer/95647?hl=da">Google Chrome</a></li>
+
+<li><a target="_blank" style="color:white;text-decoration: underline;" href="http://help.opera.com/Windows/12.10/en/cookies.html">Opera</a></li>
+
+<li><a target="_blank" style="color:white;text-decoration: underline;" href="https://support.apple.com/da-dk/HT1677">Safari</a></li>
+
+<li><a target="_blank" style="color:white;text-decoration: underline;" href="https://support.apple.com/da-dk/HT1677">iPhone, iPad og andet fra Apple</a></li>
+
+<li><a target="_blank" style="color:white;text-decoration: underline;" href="http://timeread.hubpages.com/hub/How-to-delete-internet-cookies-on-your-Droid-or-any-Android-device">Telefoner med Android styresystem</a></li>
+
+<li><a target="_blank" style="color:white;text-decoration: underline;" href="http://www.macrome-dia.com/support/documentation/en/flashplayer/help/settings_manager07.html">Telefoner med Windows 7</a></li>
+
+<li><a target="_blank" style="color:white;text-decoration: underline;" href="http://www.macrome-dia.com/support/documentation/en/flashplayer/help/settings_manager07.html">Flash cookies (alle browsere)</a></li>
+</ul>
+<p>Hvis du bruger flere browsere, skal du huske at slette cookies i dem alle. </p>

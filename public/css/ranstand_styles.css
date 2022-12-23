@@ -1,0 +1,139 @@
+p, span, em, h1, h2, h3, h4, h5, h6 {
+	font-family: 'Graphik';
+}
+h2 {
+	color: white;
+	padding-bottom: 30px;
+}
+.d-inline {
+	display: inline-block;
+	vertical-align: top;
+}
+.img-fluid {
+	max-width: 100%;
+}
+div#cover {
+	width: 100%;
+	max-width: 1920px;
+}
+
+section#header {
+	padding: 20px 0;
+	border-bottom: 2px #000 solid
+}
+div#maintext {
+	padding: 30px 0;
+}
+div#maintext h2 {
+	padding-bottom: 15px;
+	color: black;
+}
+div#maintext p {
+	padding: 0 100px 15px;
+}
+.main-button {
+	text-align: center;
+}
+.main-button .btn {
+	width: 170px;
+	height: 40px;
+	border: none;
+	background-color: #e84436;
+	border-radius: 0;
+	color: white;
+}
+div#randstad {
+	background-color: #03104a;
+	padding: 30px 0;
+}
+
+.randstad-list {
+	list-style: none;
+	text-align: center;
+	padding-left: 0;
+}
+.randstad-list .items {
+	width: 120px;
+	display: inline-block;
+	margin: 10px 30px;
+	color: white;
+	text-align: center;
+	vertical-align: top;
+}
+li.items p {
+	padding-top: 20px;
+}
+div#artikier {
+	background-color: #54abb9;
+	padding: 30px 0;
+}
+div#artikier .artikier-lg {
+	width: 49.5%;
+}
+div#artikier .artikier-lg img {
+	width: 100%;
+}
+#artikier .content {
+	margin-bottom: 40px;
+}
+#artikier .content p {
+	padding-left: 10px;
+	font-size: 14px;
+}
+.text-underline {
+	text-decoration: underline;
+}
+div#footer {
+	background-color: #fcb123;
+	padding: 30px 0;
+	border-bottom: 10px solid #333333;
+}
+button.button {
+	/*width: 170px;
+	color:white;
+	background-color: #031049;
+	height: 40px;*/
+	
+	background-color: #ffffff;
+	border: none;
+	padding: 5px 15px;
+	margin-bottom: 20px;
+	color: black;
+    font-size: 23px;
+}
+div#artikier .artikier-text {
+	width: 49.5%;
+}
+
+div.business-unit-slider {
+ float: none;
+}
+
+@media only screen and (max-width: 767px) {
+	header.site_header {
+	 position: relative;
+	}
+}
+
+@media only screen and (max-width: 425px) {
+    h2 {
+    	font-size: 24px;
+    }
+    div#maintext p {
+    	padding: 0 15px 15px;
+    }
+
+    .randstad-list .items {
+    	width: 40%;
+    	margin: 10px 10px;
+    }
+    .artikier-sm {
+    	width: 170px;
+    }
+    .artikier-sm img {
+    	width: 90%;
+    }
+    .artikier-text {
+    	width: 40%;
+    }
+}

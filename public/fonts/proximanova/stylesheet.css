@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'nexa_rust_sansblack';
+    src: url('nexarustsans-black-webfont.woff2') format('woff2'),
+         url('nexarustsans-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'proxima_novasemibold';
+    src: url('proxima_nova-semibold-webfont.woff2') format('woff2'),
+         url('proxima_nova-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'proxima_nova_blblack';
+    src: url('proximanova-black-webfont.woff2') format('woff2'),
+         url('proximanova-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'proxima_nova_rgbold';
+    src: url('proximanova-bold-webfont.woff2') format('woff2'),
+         url('proximanova-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'proxima_nova_ltlight';
+    src: url('proximanova-light-webfont.woff2') format('woff2'),
+         url('proximanova-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'proxima_nova_rgregular';
+    src: url('proximanova-reg-webfont.woff2') format('woff2'),
+         url('proximanova-reg-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'proxima_nova_thextrabold';
+    src: url('proximanova-xbold-webfont.woff2') format('woff2'),
+         url('proximanova-xbold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

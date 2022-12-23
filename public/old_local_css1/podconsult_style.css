@@ -1,0 +1,192 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+p, h1, h2, h3, h4, h5, h6, span {
+	font-family: 'Roboto', sans-serif;
+}
+b {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.w-80 {
+	width: 80%;
+}
+.d-inline {
+	display: inline-block;
+}
+.d-table {
+	display: inline-table;
+}
+div#main-body {
+	width: 100%;
+	max-width: 1920px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+section.header {
+	width: 100%;
+	height: 50px;
+	background-color: #333333;
+}
+section.main-img {
+	width: 100%;
+	min-height: 400px;
+	/*max-height: 570px;
+	//min-height: 300px;
+	/*padding: 155px;*/
+
+	/*background-image: url('../images/podconsult-banner.jpg');*/
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+}
+.first-content p {
+	padding-left: 80px;
+	padding-right: 80px;
+}
+.main-box {
+	width: 100%;
+	max-height: 300px;
+	height: auto;
+	display: inline-table;
+	padding: 10px;
+	margin-bottom: 20px;
+	color: #ccc5c5;
+	background-color: #49537f;
+}
+.main-box h4 {
+	padding-left: 15px;
+	color: #fff;
+}
+.icons ul {
+	list-style: none;
+	margin-top: 2rem;
+}
+.icons ul li {
+	width: 30%;
+	display: inline-block;
+	padding-right: 10px;
+}
+.para p {
+	font-size: 12px;
+	padding-left: 0;
+}
+.con-detail .del {
+	font-size: 10px;
+	width: 49%;
+	margin-top: 15px;
+	vertical-align: top;
+}
+.con-detail .del p {
+	margin-bottom: 3px;
+}
+.quote {
+	width: 90%;
+	font-size: 10px;
+	margin-left: auto;
+}
+.quote .quote-para {
+	width: 82%;
+}
+.quote .quote-para span {
+	font-style: italic;
+}
+.quote .quote-img {
+	width: 15%;
+	vertical-align: bottom;
+}
+
+/*=========================================================================================
+========================= Podcast Section ===============================================*/
+
+.podcasts {
+	padding: 40px 0;
+}
+
+/*=========================================================================================
+========================= podconsult Section ===============================================*/
+
+.podconsult {
+	margin-top: 30px;
+	padding: 40px 0;
+}
+
+/*=========================================================================================
+========================= podconsult Section ===============================================*/
+
+section.footer {
+	width: 100%;
+	height: 30px;
+	background-color: #333333;
+}
+
+
+/*=========================================================================================
+========================= @ Media Queries ===============================================*/
+
+@media only screen and (max-width: 1024px) {
+	.para p {
+		font-size: 10px;
+	}
+	.con-detail .del {
+		margin-top: 0;
+	}
+	.quote {
+		margin-top: 10px;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.para p {
+		font-size: 12px;
+		line-height: 2;
+	}
+	.con-detail .del {
+		margin-top: 50px;
+	}
+	.quote {
+		margin-top: 10px;
+	}
+}
+
+@media only screen and (max-width: 550px) {
+	section.main-img {
+		background-image: url('../images/ivn-ad-podconsult.png');
+		padding: 110px;
+	}
+	.first-content p {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.para p {
+		font-size: 10px;
+		line-height: 1;
+	}
+	.con-detail .del {
+		margin-top: 0;
+		width: 48.3%;
+	}
+	.quote {
+		margin-top: 10px;
+		font-size: 9px;
+	}
+	.icons ul li {
+		width: 27%;
+	}
+	.icons ul li img {
+		width: 18px;
+	}
+	.podcasts {
+    	padding: 0;
+	}
+	.podconsult {
+		margin-top: 0;
+	}
+	.podconsult .col-xs-4 {
+		padding-right: 0;
+		padding-left: 0;
+	}
+	.podconsult p {
+		font-size: 12px;
+	}
+}
